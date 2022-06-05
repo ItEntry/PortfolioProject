@@ -1,3 +1,10 @@
+#nav_bar {
+	top: 0px! important;
+	left: 0px! important;
+	width: 1440px;
+	height: 145px! important;
+	background:rgba(0,0,0,1);
+}
 /*
 	@name project_portfolio
 */
