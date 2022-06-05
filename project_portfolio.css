@@ -1,0 +1,1350 @@
+/*
+	@name project_portfolio
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px;  overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#content-container > div{ position: relative; top:inherit; }
+#page_desktop___2_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 2845px;
+}
+
+#_bg__desktop___2_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 2845px;
+	background:rgba(255,255,255,1);
+}
+
+
+#back_ground_of_hero_image_box {
+	top: 107px;
+	left: -3px;
+	width: 1440px;
+	height: 432px;
+	background:rgba(255,255,255,0);
+}
+
+
+#email_box {
+	top: 2334px;
+	left: 1034px;
+	width: 272px;
+	height: 53px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(239.2,239.2,239.2,1);
+}
+
+
+#portfolio_box {
+	top: 551px;
+	left: 0px;
+	width: 1440px;
+	height: 1611px;
+	background:rgba(0,0,0,1);
+}
+
+
+#nav_bar_box {
+	top: -2px;
+	left: -1px;
+	width: 1440px;
+	height: 98px;
+	background:rgba(0,0,0,1);
+}
+
+
+#send_box {
+	top: 2653px;
+	left: 1170px;
+	width: 165px;
+	height: 53px;
+	-ms-border-radius: 32px;
+	-o-border-radius: 32px;
+	-moz-border-radius: 32px;
+	-webkit-border-radius: 32px;
+	border-radius: 32px;
+	background:rgba(255,255,255,1);
+}
+
+
+#copy_right_box {
+	top: 2741px;
+	left: 0px;
+	width: 1440px;
+	height: 98px;
+	background:rgba(63.75,63.48,63.48,1);
+}
+
+
+#contact_me_box {
+	top: 2176px;
+	left: -1px;
+	width: 1440px;
+	height: 552px;
+	background:rgba(0,0,0,1);
+}
+
+
+#name_box {
+	top: 2334px;
+	left: 734px;
+	width: 272px;
+	height: 53px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(239.2,239.2,239.2,1);
+}
+
+
+#hero_image_on_second_page {
+	top: 107px;
+	left: -1px;
+	width: 1440px;
+	height: 432px;
+}
+
+
+#ux_ui_website {
+	top: 1156px;
+	left: 61px;
+	width: 132px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 18px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#project {
+	top: 1127px;
+	left: 61px;
+	width: 601px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#art {
+	top: 1644px;
+	left: 61px;
+	width: 132px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 18px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#project_ek1 {
+	top: 1615px;
+	left: 61px;
+	width: 601px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#project_ek2 {
+	top: 1127px;
+	left: 837px;
+	width: 601px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#art_ek1 {
+	top: 1156px;
+	left: 837px;
+	width: 132px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 18px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#project_ek3 {
+	top: 2079px;
+	left: 837px;
+	width: 601px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#art_ek2 {
+	top: 2108px;
+	left: 837px;
+	width: 132px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 18px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#project_ek4 {
+	top: 2073px;
+	left: 74px;
+	width: 601px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#my_portfolio {
+	top: 581px;
+	left: 114px;
+	width: 229px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#message_box {
+	top: 2453px;
+	left: 734px;
+	width: 572px;
+	height: 165px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(239.2,239.2,239.2,1);
+}
+
+
+#giphy_5 {
+	top: 1233px;
+	left: 46px;
+	width: 545px;
+	height: 372px;
+}
+
+
+#giphy_2 {
+	top: 1701px;
+	left: 837px;
+	width: 545px;
+	height: 372px;
+}
+
+
+#giphy_3 {
+	top: 1701px;
+	left: 46px;
+	width: 545px;
+	height: 372px;
+}
+
+
+#giphy_7 {
+	top: 755px;
+	left: 837px;
+	width: 545px;
+	height: 372px;
+}
+
+
+#giphy_6 {
+	top: 755px;
+	left: 46px;
+	width: 545px;
+	height: 372px;
+}
+
+
+#giphy_4 {
+	top: 1233px;
+	left: 837px;
+	width: 545px;
+	height: 372px;
+}
+
+
+#heart_hands_ {
+	top: 2420px;
+	left: 515px;
+	width: 141px;
+	height: 244px;
+}
+
+
+#send_email {
+	top: 2669px;
+	left: 1198px;
+	width: 183px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#email__itentry13_gmail_com {
+	top: 2557px;
+	left: 131px;
+	width: 414px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#contact_me {
+	top: 2223px;
+	left: 118px;
+	width: 209px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#your_message_or_description_here {
+	top: 2466px;
+	left: 755px;
+	width: 553px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#8D8D8D;
+}
+
+
+#have_any_questions_for_me__call_or_email_me_here__and_i_will_try_to_get_to_you_as_soon_as_possible_ {
+	top: 2320px;
+	left: 118px;
+	width: 592px;
+	height: 63px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 22px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#your_email {
+	top: 2349px;
+	left: 1048px;
+	width: 265px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#8D8D8D;
+}
+
+
+#your_name {
+	top: 2349px;
+	left: 750px;
+	width: 265px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#8D8D8D;
+}
+
+
+#message {
+	top: 2415px;
+	left: 734px;
+	width: 295px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#name {
+	top: 2296px;
+	left: 734px;
+	width: 295px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#phone___832__387_1335 {
+	top: 2479px;
+	left: 134px;
+	width: 414px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#email {
+	top: 2296px;
+	left: 1034px;
+	width: 295px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#_2022_it__copyright {
+	top: 2776px;
+	left: 593px;
+	width: 273px;
+	height: 44px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#logo {
+	top: 0px;
+	left: 27px;
+	width: 88px;
+	height: 96px;
+}
+
+
+#my_work {
+	top: 37px;
+	left: 1059px;
+	width: 100px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 20px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#contact_me_ek1 {
+	top: 37px;
+	left: 1230px;
+	width: 139px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 20px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#home {
+	top: 37px;
+	left: 919px;
+	width: 71px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#izabella_torres {
+	top: 37px;
+	left: 142px;
+	width: 250px;
+	height: 44px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#art_projects {
+	top: 647px;
+	left: 415px;
+	width: 134px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 20px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#ux_ui_projects {
+	top: 647px;
+	left: 249px;
+	width: 164px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 20px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#all_projects {
+	top: 647px;
+	left: 114px;
+	width: 129px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 20px;
+	text-align: left;
+	color:#D6D6D6;
+}
+
+
+#ux_ui_website_ek1 {
+	top: 1648px;
+	left: 865px;
+	width: 132px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 18px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#project_ek5 {
+	top: 1615px;
+	left: 865px;
+	width: 601px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#ux_ui_website_ek2 {
+	top: 2105px;
+	left: 74px;
+	width: 132px;
+	height: 22px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 18px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#page_desktop___1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 4848px;
+}
+
+#_bg__desktop___1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 4848px;
+	background:rgba(255,255,255,1);
+}
+
+
+#contact_me_box_ek1 {
+	top: 4185px;
+	left: -2px;
+	width: 1440px;
+	height: 552px;
+	background:rgba(0,0,0,1);
+}
+
+
+#copy_right_box_ek1 {
+	top: 4750px;
+	left: -1px;
+	width: 1440px;
+	height: 98px;
+	background:rgba(63.75,63.48,63.48,1);
+}
+
+
+#_2022_it__copyright_ek1 {
+	top: 4785px;
+	left: 592px;
+	width: 279px;
+	height: 44px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#email__itentry13_gmail_com_ek1 {
+	top: 4566px;
+	left: 130px;
+	width: 414px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#contact_me_ek2 {
+	top: 4232px;
+	left: 117px;
+	width: 209px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#send_email_button {
+	top: 4662px;
+	left: 1169px;
+	width: 165px;
+	height: 53px;
+	-ms-border-radius: 32px;
+	-o-border-radius: 32px;
+	-moz-border-radius: 32px;
+	-webkit-border-radius: 32px;
+	border-radius: 32px;
+	background:rgba(255,255,255,1);
+}
+
+
+#name_ek1 {
+	top: 4305px;
+	left: 733px;
+	width: 295px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#send_email_ek1 {
+	top: 4678px;
+	left: 1197px;
+	width: 183px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#name_box_ek1 {
+	top: 4343px;
+	left: 733px;
+	width: 272px;
+	height: 53px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(239.2,239.2,239.2,1);
+}
+
+
+#email_box_ek1 {
+	top: 4343px;
+	left: 1033px;
+	width: 272px;
+	height: 53px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(239.2,239.2,239.2,1);
+}
+
+
+#message_box_ek1 {
+	top: 4462px;
+	left: 733px;
+	width: 572px;
+	height: 165px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(239.2,239.2,239.2,1);
+}
+
+
+#have_any_questions_for_me__call_or_email_me_here__and_i_will_try_to_get_to_you_as_soon_as_possible__ek1 {
+	top: 4329px;
+	left: 117px;
+	width: 592px;
+	height: 63px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 22px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#your_name_box {
+	top: 4358px;
+	left: 749px;
+	width: 265px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#8D8D8D;
+}
+
+
+#phone___832__387_1335_ek1 {
+	top: 4488px;
+	left: 133px;
+	width: 414px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#your_email_ek1 {
+	top: 4358px;
+	left: 1047px;
+	width: 265px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#8D8D8D;
+}
+
+
+#your_message_or_description_here_ek1 {
+	top: 4475px;
+	left: 754px;
+	width: 553px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#8D8D8D;
+}
+
+
+#message_box_ek2 {
+	top: 4424px;
+	left: 733px;
+	width: 295px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#email_box_ek2 {
+	top: 4305px;
+	left: 1033px;
+	width: 295px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#back_ground_for_my_portfolio {
+	top: 2564px;
+	left: -2px;
+	width: 1440px;
+	height: 1611px;
+	background:rgba(0,0,0,1);
+}
+
+
+#doe {
+	top: 3111px;
+	left: 133px;
+	width: 601px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#my_portfolio_title {
+	top: 2597px;
+	left: 119px;
+	width: 229px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#exodus {
+	top: 3556px;
+	left: 133px;
+	width: 601px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#discovery_green_website_redesign {
+	top: 4009px;
+	left: 133px;
+	width: 601px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#title {
+	top: 3137px;
+	left: 133px;
+	width: 147px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 18px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#tittle {
+	top: 4040px;
+	left: 133px;
+	width: 140px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 18px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#title_ek1 {
+	top: 2663px;
+	left: 119px;
+	width: 129px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 20px;
+	text-align: left;
+	color:#D7D6D6;
+}
+
+
+#title_ek2 {
+	top: 2663px;
+	left: 239px;
+	width: 164px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 20px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#title_ek3 {
+	top: 2663px;
+	left: 394px;
+	width: 134px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 20px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#exodus_project_background {
+	top: 3168px;
+	left: 106px;
+	width: 1224px;
+	height: 372px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(229,235,246,1);
+}
+
+
+#click_here_for_more_button {
+	top: 4104px;
+	left: 536px;
+	width: 234px;
+	height: 46px;
+	-ms-border-radius: 32px;
+	-o-border-radius: 32px;
+	-moz-border-radius: 32px;
+	-webkit-border-radius: 32px;
+	border-radius: 32px;
+	background:rgba(255,255,255,1);
+}
+
+
+#doe_project {
+	top: 2734px;
+	left: 106px;
+	width: 1224px;
+	height: 372px;
+}
+
+
+#ocean_waves_for_quote {
+	top: 1518px;
+	left: -1047px;
+	width: 649.95px;
+	height: 1440.5px;
+}
+
+
+#quote {
+	top: 2138px;
+	left: 216px;
+	width: 1075px;
+	height: 190px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 64px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#ux_skills {
+	top: 745px;
+	left: 614px;
+	width: 255px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#exodus_project {
+	top: 3248px;
+	left: 463px;
+	width: 511px;
+	height: 212px;
+}
+
+
+#heart_hand_at_footer {
+	top: 4429px;
+	left: 514px;
+	width: 141px;
+	height: 244px;
+}
+
+
+#ux_skills_box {
+	top: 1915px;
+	left: 0px;
+	width: 1440px;
+	height: 1191px;
+	background:rgba(0,0,0,1);
+}
+
+
+#prototyping {
+	top: 845px;
+	left: 604px;
+	width: 221px;
+	height: 73px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 32px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#visual_communication {
+	top: 1029px;
+	left: 1014px;
+	width: 377px;
+	height: 67px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 32px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#wireframing {
+	top: 1183px;
+	left: 36px;
+	width: 420px;
+	height: 544px;
+}
+
+
+#visual_communication_ek1 {
+	top: 1183px;
+	left: 960px;
+	width: 448px;
+	height: 536px;
+}
+
+
+#prototyping_ek1 {
+	top: 935px;
+	left: 498px;
+	width: 420px;
+	height: 544px;
+}
+
+
+#__hero_image__back_ground {
+	top: 141px;
+	left: -1px;
+	width: 1440px;
+	height: 573px;
+	background:rgba(0,0,0,1);
+}
+
+
+#intro_2 {
+	top: 454.9px;
+	left: 472px;
+	width: 501px;
+	height: 219.56px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 21px;
+	font-style: italic;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#nav_bar {
+	top: 34px;
+	left: -1px;
+	width: 1440px;
+	height: 98px;
+	background:rgba(0,0,0,1);
+}
+
+
+#name_on_nav_bar {
+	top: 73px;
+	left: 142px;
+	width: 250px;
+	height: 44px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#my_work_button {
+	top: 73px;
+	left: 1059px;
+	width: 100px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 20px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#home_button {
+	top: 73px;
+	left: 919px;
+	width: 71px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#contact_me_button {
+	top: 73px;
+	left: 1230px;
+	width: 139px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 20px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#logo_image {
+	top: 36px;
+	left: 27px;
+	width: 88px;
+	height: 96px;
+}
+
+
+#click_here_for_more {
+	top: 4115px;
+	left: 561px;
+	width: 213px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#discovery_green_project {
+	top: 3623px;
+	left: 81px;
+	width: 1224px;
+	height: 374px;
+}
+
+
+#wireframing_ek1 {
+	top: 1029px;
+	left: 149px;
+	width: 232px;
+	height: 73px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 32px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#intro_to_myself_1 {
+	top: 269.53px;
+	left: 453px;
+	width: 542px;
+	height: 97.66px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#hand_2_home_image {
+	top: 334px;
+	left: 1122px;
+	width: 206.75px;
+	height: 378.35px;
+}
+
+
+#hand_home_image {
+	top: 139px;
+	left: 119px;
+	width: 194.9px;
+	height: 364.71px;
+}
+
+
+#chain_around_intro {
+	top: 91px;
+	left: 453px;
+	width: 530.38px;
+	height: 672.55px;
+}
+
+
+#title_ek4 {
+	top: 3587px;
+	left: 133px;
+	width: 132px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Averia Serif Libre;
+	font-size: 18px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+
+/* Add your custom CSS here */
